@@ -33,7 +33,7 @@ def main():
                 nbentré = int(entré)
                 break
             else:
-                print("Erreur")
+                print("Erreur ")
         pass
 
         if nbentré > nbaléatoire:
